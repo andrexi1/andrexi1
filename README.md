@@ -11,7 +11,7 @@ Estudio Ingeniería de Sistemas y actualmente me estoy enfocando en el Análisis
 
 ---
 
-### 📈 Proyecto destacado 
+### Proyecto destacado 
 
 *   ** Análisis de Competitividad - Mundial 2026**
     Un reporte interactivo en Power BI donde apliqué estadística descriptiva (promedios y desviación estándar) sobre el Ranking FIFA de las 48 selecciones clasificadas. El objetivo principal fue resolver el debate futbolístico de cuáles son los verdaderos "Grupos de la Muerte" (mayor dificultad colectiva) y descubrir qué grupos presentan la máxima paridad competitiva (igualdad de condiciones entre sus integrantes).
